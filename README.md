@@ -8,7 +8,7 @@
 
 ## 🎯 What is this challenge?
 
-The [30-Days-SOC-Challenge-Beginner](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner) by [@0xrajneesh](https://github.com/0xrajneesh) is a structured, day-by-day guide designed to build essential SOC and blue team skills. Whether you're a cybersecurity newbie or transitioning into blue teaming, this challenge helps you understand core SOC tools, methodologies, and workflows.
+The [30-Days-SOC-Challenge-Beginner](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner) by [@0xrajneesh](https://github.com/0xrajneesh) is a structured, day-by-day guide designed to build essential SOC and blue team skills. Whether you are a cybersecurity newbie or transitioning into blue teaming, this challenge helps you understand core SOC tools, methodologies, and workflows.
 
 ---
 
@@ -31,3 +31,12 @@ Through this challenge, I aim to:
 - Improve threat hunting skills
 - Learn industry-standard tools used in real-world environments
 - Document and share my progress
+```
+## 📂 Solutions Repository
+
+You can find all my write-ups and solutions for each day of the challenge here:
+
+📁 **[View Solutions on GitHub](https://github.com/nandala-allan/30-Day-SOC-Challenge-Solutions)**
+
+> 💬 *Note: These solutions are for educational purposes. Try completing the tasks on your own before peeking!*
+
